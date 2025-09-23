@@ -1,6 +1,6 @@
 # 👋 Welcome to my github page! <br />
 
-I’m a Senior Full-Stack & AI Developer with deep expertise in designing, building, and scaling modern applications. Over the 8 years, I’ve delivered high-performance solutions across web, mobile, and AI-driven platforms—bridging the gap between cutting-edge research and production-ready systems.
+I’m a Senior Full-Stack & AI Developer with deep expertise in designing, building, and scaling modern applications. Over the 8 years, I’ve delivered high-performance solutions across web, mobile, and AI-driven platforms bridging the gap between cutting-edge research and production-ready systems.
 
 
 ## Favorite Saying 👍
