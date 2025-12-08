@@ -1,19 +1,19 @@
 <div align="center">
-  <h2>💦 Web3 | Rust | Smart Contract | Trading Bot | 3D WebSite Developer 💦</h2>
+  <h2>💦 Senior AI and Blockchain Developer 💦</h2>
 </div>
 
-<h4>I am a highly skilled software engineer with deep expertise in Web4 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
-I have a strong track record of building secure, efficient, and scalable blockchain solutions  including decentralized applications (dApps), automated trading bots, and advanced DeFi protocols.</h4>
+<h4>I am a highly skilled software engineer with deep expertise in AI and Web4 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
+I have a strong track record of building secure, efficient, and scalable blockchain solutions  including decentralized applications (dApps), automated trading bots, and advanced DeFi protocols, audio integration, OpenAI, Claude, Hugging Face, Playwright, API integrations.</h4>
 
 <h4>With a solid background in 3D web development using Three.js, WebGL, and interactive UX/UI design, I create visually engaging, performance-optimized applications that bridge functionality with immersive design. 
-My full stack experience spans React, Next.js, Node.js, and modern DevOps workflows.</h4>
+My full stack experience spans React, Next.js, Node.js, and modern DevOps workflows, OpenAI, Claude, Hugging Face, Playwright, API integrations.</h4>
 
 <h4>I bring both technical excellence and strategic insight to blockchain projects, ensuring they are production-ready, user-centric, and future-proof.</h4>
 
 <br/>
 
 <p align="center">  
-    <a href="https://github.com/akyo0000212"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
+    <a href="https://github.com/aquacommander"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
 </p>
 
 
