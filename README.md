@@ -1,65 +1,30 @@
-<div align="center">
-  <h2>💦 Senior AI and Blockchain Developer 💦</h2>
-</div>
+# 👋 Welcome to my github page! <br />
 
-<h3>
-Senior AI & Blockchain Engineer
-I am a fully remote Senior AI and Blockchain Engineer with around 12 years of experience building production systems across AI, Web4, and full-stack web development. <br>
-My work spans Rust-based smart contracts on Solana and NEAR, Solidity contracts on Ethereum, as well as secure, scalable backend and frontend architectures. <br>
-I have delivered decentralized applications (dApps), automated trading bots, advanced DeFi protocols, and AI-powered products that integrate modern LLMs and automation frameworks.<br>
-I enjoy working at the intersection of high-performance engineering and practical product design: turning complex ideas into systems that are robust in production, maintainable for teams, and intuitive for end users.<br>
-
-## Areas of Focus
-
-### AI, Agents and Automation
-I specialize in building AI-driven backends and agents that can reason, act, and integrate with real systems.
-- LLM agent workflows using LangChain, LangGraph, AutoGen, ReAct, CrewAI, DeepSeek  
-- Integration of OpenAI, Claude, and Hugging Face models  
-- Tool-calling / function-calling design for agents that can operate apps, APIs, and workflows  
-- Automation and testing using Playwright and custom API integrations  
-
-### Blockchain / Web4 Development
-I have deep experience in blockchain engineering, from low-level smart contracts to complete user-facing dApps.
-- Rust smart contracts on Solana and NEAR  
-- Solidity smart contracts on Ethereum and EVM-compatible chains  
-- Design and implementation of DeFi protocols, tokens, and on-chain logic  
-- Development of trading bots, arbitrage tools, and automation systems  
-- Focus on security, gas efficiency, scalability, and real-world usability  
-
-### Full-Stack and 3D Web
-Beyond blockchain and AI, I build full-stack applications and 3D/interactive web experiences.
-- Frontend development with React, Next.js, and Vue  
-- Backend services in Node.js and Python, REST and WebSocket APIs  
-- 3D web experiences with Three.js and WebGL  
-- Interactive UX/UI design with attention to performance and responsiveness  
-
-## How I Work
-I approach projects with a balance of technical rigor and product thinking:
-
-- Design systems that are secure, efficient, and production-ready  
-- Write clean, maintainable code with clear abstractions and documentation  
-- Communicate clearly with founders, product teams, and other engineers  
-- Focus on shipping real value rather than just prototypes
-I enjoy collaborating with teams that are serious about AI, blockchain, and next-generation web experiences, and I am comfortable joining at any stage: from idea and architecture to scaling and optimization.
-
-## Open to Collaboration
-
-I am currently working as a freelance, fully remote engineer and open to:
-
-- AI agent and automation projects  
-- Blockchain and Web4 applications  
-- Full-stack or 3D web products that need strong engineering
-
-If you are looking for a high-skilled engineer for your project, feel free to reach out.  
-I am always happy to discuss ideas, share insights, and explore potential collaboration.
-</h3>
-<br/>
-
-<p align="center">  
-    <a href="https://github.com/aquacommander"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
-</p>
+I’m a Senior Blockchain & AI Developer with deep expertise in designing, building, and scaling modern applications. Over the 8 years, I’ve delivered high-performance solutions across web, mobile, and AI-driven platforms bridging the gap between cutting-edge research and production-ready systems.
 
 
+## Favorite Saying 👍
+
+```rust
+/// eatsky1006's motto
+struct LinusTorvalds;
+
+impl LinusTorvalds {
+  /// Return Linus Torvalds quote
+  fn said(&self) -> &str {
+    "Most good programmers do programming not because they expect to get paid /
+     or get adulation by the public, but because it is fun to program."
+  }
+}
+
+fn main() {
+  let linus_torvalds = LinusTorvalds;
+
+  println!("Linus Torvalds - {}", linus_torvalds.said());
+}
+```
+
+## ⚡ My Skills
 # 
 <table align="center">
 <!-- skill -->
@@ -235,11 +200,3 @@ I am always happy to discuss ideas, share insights, and explore potential collab
   </tr>
   
 </table>
-<br/>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
-<p align="center">
-     <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
-</p>
