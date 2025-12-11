@@ -25,12 +25,6 @@ fn main() {
 ```
 
 ## ⚡ My Skills
-
-<p align="center">  
-    <a href="https://github.com/aquacommander"><img src="https://github-trophies.vercel.app/?username=CodeByStella&theme=onestar&no-frame=true&column=6&row=2"   alt=""/></a>
-</p>
-
-
 # 
 <table align="center">
 <!-- skill -->
@@ -206,11 +200,3 @@ fn main() {
   </tr>
   
 </table>
-<br/>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
-<p align="center">
-     <img width="98%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
-</p>
